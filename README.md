@@ -41,19 +41,19 @@ Para tornar o relatório fluido e profissional, foram feitas as seguintes melhor
 ## 📐 Visualização do Ecossistema Analítico
 
 ### 1. Início (Capa)
-![Capa do Relatório](insira_link_da_imagem_da_capa.png)
+![Capa do Relatório](/imagens/analise_estatistica.png)
 
 ### 2. Dashboard de Vendas
-![Dashboard de Vendas](insira_link_da_imagem_de_vendas.png)
+![Dashboard de Vendas](/imagens/relatorio_vendas.png)
 
 ### 3. Análise de Lucro
-![Análise de Lucro](insira_link_da_imagem_de_lucros.png)
+![Análise de Lucro](/imagens/analise_lucro.png)
 
 ### 4. Análise Estatística
-![Análise Estatística](insira_link_da_imagem_estatistica.png)
+![Análise Estatística](/imagens/analise_estatistica.png)
 
 ### 5. Análise de Causa Raiz
-![Análise de Causa Raiz](insira_link_da_imagem_causa_raiz.png)
+![Análise de Causa Raiz](/imagens/analise_causa_raiz.png)
 
 ---
 
